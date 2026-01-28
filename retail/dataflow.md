@@ -32,18 +32,7 @@ get_shipping_info(shipping_id) -> update_shipping(shipping_id)
 
 ---
 
-## SOP 3 — Order Tracking
-
-```
-Instructions(email) -> get_user_info(email)
-get_user_info(user_id) -> get_sales_order_info(user_id)
-get_sales_order_info(sales_order_id) -> get_sales_order_items(sales_order_id)
-get_sales_order_info(sales_order_id) -> get_shipping_info(sales_order_id)
-```
-
----
-
-## SOP 4 — Purchase Order Creation
+## SOP 3 — Purchase Order Creation
 
 ```
 Instructions(email) -> get_user_info(email)
@@ -55,7 +44,7 @@ create_purchase_order(purchase_order_id) + get_product_info(product_id) + Instru
 
 ---
 
-## SOP 5 — Purchase Order Receiving
+## SOP 4 — Purchase Order Receiving
 
 ```
 Instructions(email) -> get_user_info(email)
@@ -67,19 +56,19 @@ get_purchase_order_info(purchase_order_id) -> update_purchase_order(purchase_ord
 
 ---
 
-## SOP 6 — Shipping Status Update
+## SOP 5 — Shipping Status Update
 
 ```
 Instructions(email) -> get_user_info(email)
 get_user_info(user_id) -> get_sales_order_info(user_id)
 get_sales_order_info(sales_order_id) -> get_shipping_info(sales_order_id)
-get_shipping_info(shipping_id) -> update_shipping(shipping_id)
+get_shipping_info(shipping_id) + Instructions(new_status) -> update_shipping(shipping_id, status)
 get_sales_order_info(sales_order_id) -> update_sales_order(sales_order_id)
 ```
 
 ---
 
-## SOP 7 — Supplier Management
+## SOP 6 — Supplier Management
 
 **Scenario A: New Supplier**
 ```
@@ -97,7 +86,7 @@ get_supplier_info(supplier_id) + Instructions(name, contact_email, address, city
 
 ---
 
-## SOP 8 — Product Catalog Management
+## SOP 7 — Product Catalog Management
 
 **Scenario A: New Product**
 ```
@@ -117,11 +106,12 @@ get_product_info(product_id) + Instructions(name, description, unit_price) -> up
 
 ---
 
-## SOP 9 — User Onboarding
+## SOP 8 — User Onboarding
 
 ```
-Instructions(email) -> get_user_info(email) [not found]
+Instructions(admin_email) -> get_user_info(email)
+Instructions(new_user_email) -> get_user_info(email) [not found]
 Instructions(first_name, last_name, email, address, city, state, zip_code, country) -> create_user(...)
 ```
 
-**Note:** If get_user_info returns a user, halt execution.
+**Note:** If get_user_info returns a user for new_user_email, halt execution.

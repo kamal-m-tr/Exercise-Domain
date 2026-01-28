@@ -30,7 +30,7 @@ You must halt execution and immediately call `transfer_to_human(reason)` if any 
 
 ## Global Conventions
 
-- All IDs are string values (e.g., `"1"`, `"2"`).
+- All IDs are string values.
 - Date format is `YYYY-MM-DD`.
 - All monetary values are in USD with two-decimal precision.
 - Order totals are calculated as the sum of `(quantity × unit_price)` using values returned by `get_product_info`.
@@ -41,9 +41,16 @@ You must halt execution and immediately call `transfer_to_human(reason)` if any 
 **Sales Orders:** `pending`, `confirmed`, `processing`, `shipped`, `delivered`, `cancelled`  
 **Shipping:** `pending`, `in_transit`, `out_for_delivery`, `delivered`, `failed`, `returned`
 
-### Auditing
+### Valid Shipping Status Transitions
 
-All create and update tools implicitly produce an auditable state change. No separate audit tool is required.
+| From | Allowed To |
+|------|------------|
+| `pending` | `in_transit`, `failed`, `cancelled` |
+| `in_transit` | `out_for_delivery`, `failed` |
+| `out_for_delivery` | `delivered`, `failed` |
+| `delivered` | (terminal) |
+| `failed` | `pending`, `returned` |
+| `returned` | (terminal) |
 
 ---
 
@@ -70,18 +77,7 @@ Steps to follow:
 
 ---
 
-## SOP 3. Order Tracking
-
-Steps to follow:
-
-1. Retrieve user identity using `get_user_info`.
-2. Retrieve the user's sales orders using `get_sales_order_info`.
-3. Retrieve order items using `get_sales_order_items`.
-4. Retrieve shipping status using `get_shipping_info`.
-
----
-
-## SOP 4. Purchase Order Creation
+## SOP 3. Purchase Order Creation
 
 Steps to follow:
 
@@ -93,7 +89,7 @@ Steps to follow:
 
 ---
 
-## SOP 5. Purchase Order Receiving
+## SOP 4. Purchase Order Receiving
 
 Steps to follow:
 
@@ -105,19 +101,19 @@ Steps to follow:
 
 ---
 
-## SOP 6. Shipping Status Update
+## SOP 5. Shipping Status Update
 
 Steps to follow:
 
 1. Retrieve user identity using `get_user_info`.
 2. Retrieve the user's sales order using `get_sales_order_info`.
-3. Retrieve shipping record using `get_shipping_info`; verify status transition is valid.
+3. Retrieve shipping record using `get_shipping_info`; verify requested status is allowed per the transition table.
 4. Update shipping status using `update_shipping`.
 5. If the new status is `delivered`, update sales order status to `delivered` using `update_sales_order`.
 
 ---
 
-## SOP 7. Supplier Management
+## SOP 6. Supplier Management
 
 Steps to follow:
 
@@ -128,7 +124,7 @@ Steps to follow:
 
 ---
 
-## SOP 8. Product Catalog Management
+## SOP 7. Product Catalog Management
 
 Steps to follow:
 
@@ -140,7 +136,7 @@ Steps to follow:
 
 ---
 
-## SOP 9. User Onboarding
+## SOP 8. User Onboarding
 
 Steps to follow:
 
