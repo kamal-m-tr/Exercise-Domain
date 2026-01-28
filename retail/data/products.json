@@ -1,0 +1,352 @@
+{
+  "1": {
+    "product_id": "1",
+    "name": "Wireless Mouse - Electronics",
+    "description": "Ergonomic wireless mouse with 2.4GHz connectivity, adjustable DPI settings, and long battery life for comfortable all-day use.",
+    "supplier_id": "16",
+    "unit_price": 139.78
+  },
+  "2": {
+    "product_id": "2",
+    "name": "Mechanical Keyboard - Electronics",
+    "description": "Premium mechanical keyboard with tactile switches, RGB backlighting, and durable aluminum frame for enhanced typing experience.",
+    "supplier_id": "8",
+    "unit_price": 219.92
+  },
+  "3": {
+    "product_id": "3",
+    "name": "USB Hub - Electronics",
+    "description": "7-port USB 3.0 hub with individual power switches and LED indicators for efficient device connectivity.",
+    "supplier_id": "19",
+    "unit_price": 259.66
+  },
+  "4": {
+    "product_id": "4",
+    "name": "Webcam - Electronics",
+    "description": "Full HD 1080p webcam with built-in microphone, auto-focus, and wide-angle lens for professional video calls.",
+    "supplier_id": "3",
+    "unit_price": 88.38
+  },
+  "5": {
+    "product_id": "5",
+    "name": "Headphones - Electronics",
+    "description": "Over-ear noise-cancelling headphones with premium audio drivers, cushioned ear cups, and 30-hour battery life.",
+    "supplier_id": "14",
+    "unit_price": 301.98
+  },
+  "6": {
+    "product_id": "6",
+    "name": "Monitor Stand - Electronics",
+    "description": "Adjustable monitor stand with height and tilt controls, cable management, and sturdy steel construction.",
+    "supplier_id": "15",
+    "unit_price": 343.33
+  },
+  "7": {
+    "product_id": "7",
+    "name": "Laptop Stand - Electronics",
+    "description": "Portable aluminum laptop stand with adjustable angles, ventilation design, and foldable construction for easy transport.",
+    "supplier_id": "4",
+    "unit_price": 176.68
+  },
+  "8": {
+    "product_id": "8",
+    "name": "Cable Organizer - Electronics",
+    "description": "Complete cable management kit with velcro straps, cord clips, and sleeve protectors for organized workspace.",
+    "supplier_id": "10",
+    "unit_price": 477.36
+  },
+  "9": {
+    "product_id": "9",
+    "name": "Power Bank - Electronics",
+    "description": "High-capacity 20000mAh portable charger with dual USB ports, fast charging support, and LED power indicator.",
+    "supplier_id": "9",
+    "unit_price": 436.54
+  },
+  "10": {
+    "product_id": "10",
+    "name": "Bluetooth Speaker - Electronics",
+    "description": "Compact wireless speaker with 360-degree sound, waterproof design, and 12-hour playback for indoor and outdoor use.",
+    "supplier_id": "10",
+    "unit_price": 84.88
+  },
+  "11": {
+    "product_id": "11",
+    "name": "Notebook Set - Office Supplies",
+    "description": "Professional notebook collection with lined pages, durable hardcover binding, and ribbon bookmarks for easy reference.",
+    "supplier_id": "6",
+    "unit_price": 168.83
+  },
+  "12": {
+    "product_id": "12",
+    "name": "Pen Collection - Office Supplies",
+    "description": "Assorted fine-tip ballpoint pens with smooth ink flow, comfortable grip, and variety of colors for everyday writing.",
+    "supplier_id": "1",
+    "unit_price": 38.37
+  },
+  "13": {
+    "product_id": "13",
+    "name": "Desk Organizer - Office Supplies",
+    "description": "Multi-compartment desk caddy with pen holders, drawer sections, and accessory slots for clutter-free workspace.",
+    "supplier_id": "19",
+    "unit_price": 489.2
+  },
+  "14": {
+    "product_id": "14",
+    "name": "Stapler - Office Supplies",
+    "description": "Heavy-duty desktop stapler with 50-sheet capacity, built-in staple remover, and non-slip base for reliable performance.",
+    "supplier_id": "18",
+    "unit_price": 473.95
+  },
+  "15": {
+    "product_id": "15",
+    "name": "Paper Clips - Office Supplies",
+    "description": "Premium assorted paper clips in multiple sizes with rust-resistant coating and magnetic dispenser included.",
+    "supplier_id": "6",
+    "unit_price": 482.53
+  },
+  "16": {
+    "product_id": "16",
+    "name": "Sticky Notes - Office Supplies",
+    "description": "Super-sticky note pads in bright colors with strong adhesive backing and easy-peel design for versatile use.",
+    "supplier_id": "18",
+    "unit_price": 497.61
+  },
+  "17": {
+    "product_id": "17",
+    "name": "Whiteboard Markers - Office Supplies",
+    "description": "Dry-erase marker set with chisel tips, low-odor ink, and vibrant colors for clear whiteboard presentations.",
+    "supplier_id": "12",
+    "unit_price": 131.46
+  },
+  "18": {
+    "product_id": "18",
+    "name": "File Folders - Office Supplies",
+    "description": "Heavy-weight manila file folders with reinforced tabs, letter size, and assorted tab positions for organized filing.",
+    "supplier_id": "3",
+    "unit_price": 122.75
+  },
+  "19": {
+    "product_id": "19",
+    "name": "Binder Clips - Office Supplies",
+    "description": "Sturdy metal binder clips in assorted sizes with fold-back handles and strong grip for securing thick documents.",
+    "supplier_id": "8",
+    "unit_price": 122.17
+  },
+  "20": {
+    "product_id": "20",
+    "name": "Tape Dispenser - Office Supplies",
+    "description": "Weighted desktop tape dispenser with non-skid base, one-hand operation, and fits standard tape rolls.",
+    "supplier_id": "2",
+    "unit_price": 146.44
+  },
+  "21": {
+    "product_id": "21",
+    "name": "Office Chair - Furniture",
+    "description": "Ergonomic mesh office chair with lumbar support, adjustable armrests, and breathable back for all-day comfort.",
+    "supplier_id": "16",
+    "unit_price": 292.33
+  },
+  "22": {
+    "product_id": "22",
+    "name": "Standing Desk - Furniture",
+    "description": "Electric height-adjustable standing desk with memory presets, spacious work surface, and quiet motor operation.",
+    "supplier_id": "8",
+    "unit_price": 57.49
+  },
+  "23": {
+    "product_id": "23",
+    "name": "Bookshelf - Furniture",
+    "description": "5-tier wooden bookshelf with adjustable shelves, sturdy construction, and modern design for home or office storage.",
+    "supplier_id": "14",
+    "unit_price": 433.27
+  },
+  "24": {
+    "product_id": "24",
+    "name": "Filing Cabinet - Furniture",
+    "description": "3-drawer vertical filing cabinet with full-extension slides, lock mechanism, and label holders for secure document storage.",
+    "supplier_id": "2",
+    "unit_price": 39.69
+  },
+  "25": {
+    "product_id": "25",
+    "name": "Desk Lamp - Furniture",
+    "description": "LED desk lamp with adjustable brightness levels, flexible gooseneck, and USB charging port for task lighting.",
+    "supplier_id": "11",
+    "unit_price": 272.77
+  },
+  "26": {
+    "product_id": "26",
+    "name": "Monitor Arm - Furniture",
+    "description": "Single monitor arm mount with gas spring adjustment, cable management, and VESA compatibility for ergonomic positioning.",
+    "supplier_id": "5",
+    "unit_price": 132.4
+  },
+  "27": {
+    "product_id": "27",
+    "name": "Footrest - Furniture",
+    "description": "Adjustable under-desk footrest with textured surface, tilt angles, and non-slip base for improved posture.",
+    "supplier_id": "3",
+    "unit_price": 329.54
+  },
+  "28": {
+    "product_id": "28",
+    "name": "Keyboard Tray - Furniture",
+    "description": "Under-desk keyboard tray with sliding drawer, wrist rest, and height adjustment for comfortable typing position.",
+    "supplier_id": "18",
+    "unit_price": 209.13
+  },
+  "29": {
+    "product_id": "29",
+    "name": "Cable Management Box - Furniture",
+    "description": "Large cable management box with ventilation slots, cord openings, and wooden finish to hide power strips and cables.",
+    "supplier_id": "16",
+    "unit_price": 195.69
+  },
+  "30": {
+    "product_id": "30",
+    "name": "Drawer Unit - Furniture",
+    "description": "Mobile 3-drawer pedestal unit with casters, file drawer, and lock for convenient under-desk storage.",
+    "supplier_id": "13",
+    "unit_price": 351.32
+  },
+  "31": {
+    "product_id": "31",
+    "name": "Coffee Maker - Kitchen",
+    "description": "Programmable 12-cup coffee maker with auto-brew timer, keep-warm function, and reusable filter for fresh coffee.",
+    "supplier_id": "18",
+    "unit_price": 155.38
+  },
+  "32": {
+    "product_id": "32",
+    "name": "Water Bottle - Kitchen",
+    "description": "Insulated stainless steel water bottle with leak-proof lid, double-wall vacuum insulation, and 24-hour temperature retention.",
+    "supplier_id": "2",
+    "unit_price": 38.0
+  },
+  "33": {
+    "product_id": "33",
+    "name": "Lunch Box - Kitchen",
+    "description": "Bento-style lunch box with multiple compartments, leak-proof seal, and microwave-safe containers for meal prep.",
+    "supplier_id": "19",
+    "unit_price": 37.86
+  },
+  "34": {
+    "product_id": "34",
+    "name": "Mug Set - Kitchen",
+    "description": "Set of 4 ceramic coffee mugs with large handles, chip-resistant glaze, and 12oz capacity for hot beverages.",
+    "supplier_id": "17",
+    "unit_price": 43.29
+  },
+  "35": {
+    "product_id": "35",
+    "name": "Thermos - Kitchen",
+    "description": "Vacuum-insulated thermos with pour-through lid, 16oz capacity, and stainless steel construction for hot or cold drinks.",
+    "supplier_id": "8",
+    "unit_price": 293.66
+  },
+  "36": {
+    "product_id": "36",
+    "name": "Snack Container - Kitchen",
+    "description": "Stackable snack containers with airtight lids, portion-control sizes, and BPA-free plastic for healthy snacking.",
+    "supplier_id": "2",
+    "unit_price": 295.99
+  },
+  "37": {
+    "product_id": "37",
+    "name": "Utensil Set - Kitchen",
+    "description": "Portable utensil set with fork, knife, spoon, and chopsticks in compact carrying case for on-the-go meals.",
+    "supplier_id": "17",
+    "unit_price": 126.95
+  },
+  "38": {
+    "product_id": "38",
+    "name": "Dish Rack - Kitchen",
+    "description": "Compact countertop dish rack with drainboard, utensil holder, and rust-resistant coating for efficient drying.",
+    "supplier_id": "13",
+    "unit_price": 164.92
+  },
+  "39": {
+    "product_id": "39",
+    "name": "Food Storage - Kitchen",
+    "description": "Glass food storage container set with snap-lock lids, oven-safe design, and nesting capability for organized pantry.",
+    "supplier_id": "3",
+    "unit_price": 498.08
+  },
+  "40": {
+    "product_id": "40",
+    "name": "Ice Tray - Kitchen",
+    "description": "Silicone ice cube tray with easy-release design, lid cover, and large cube molds for slow-melting ice.",
+    "supplier_id": "3",
+    "unit_price": 74.89
+  },
+  "41": {
+    "product_id": "41",
+    "name": "Planner - Stationery",
+    "description": "Weekly/monthly planner with goal-setting pages, habit trackers, and lay-flat binding for organized scheduling.",
+    "supplier_id": "12",
+    "unit_price": 87.29
+  },
+  "42": {
+    "product_id": "42",
+    "name": "Calendar - Stationery",
+    "description": "Large wall calendar with monthly view, ample writing space, and tear-off pages for annual planning.",
+    "supplier_id": "18",
+    "unit_price": 269.17
+  },
+  "43": {
+    "product_id": "43",
+    "name": "Notepad - Stationery",
+    "description": "Perforated legal pad with wide-ruled lines, sturdy cardboard backing, and 50 sheets per pad for quick notes.",
+    "supplier_id": "18",
+    "unit_price": 66.55
+  },
+  "44": {
+    "product_id": "44",
+    "name": "Highlighter Set - Stationery",
+    "description": "Assorted fluorescent highlighters with chisel tips, smear-resistant ink, and pastel colors for text marking.",
+    "supplier_id": "4",
+    "unit_price": 306.36
+  },
+  "45": {
+    "product_id": "45",
+    "name": "Pencil Case - Stationery",
+    "description": "Durable canvas pencil case with dual compartments, zipper closure, and mesh pocket for stationery storage.",
+    "supplier_id": "11",
+    "unit_price": 249.37
+  },
+  "46": {
+    "product_id": "46",
+    "name": "Ruler Set - Stationery",
+    "description": "Precision ruler set with 6-inch and 12-inch options, metric and imperial markings, and clear acrylic material.",
+    "supplier_id": "2",
+    "unit_price": 31.59
+  },
+  "47": {
+    "product_id": "47",
+    "name": "Eraser Pack - Stationery",
+    "description": "Soft vinyl erasers with clean erasing action, minimal residue, and protective sleeves for pencil corrections.",
+    "supplier_id": "11",
+    "unit_price": 373.19
+  },
+  "48": {
+    "product_id": "48",
+    "name": "Sharpener - Stationery",
+    "description": "Electric pencil sharpener with auto-stop feature, helical blade, and shavings receptacle for sharp points.",
+    "supplier_id": "18",
+    "unit_price": 64.81
+  },
+  "49": {
+    "product_id": "49",
+    "name": "Correction Tape - Stationery",
+    "description": "Dry correction tape with instant coverage, smooth application, and refillable dispenser for error-free documents.",
+    "supplier_id": "5",
+    "unit_price": 280.73
+  },
+  "50": {
+    "product_id": "50",
+    "name": "Glue Stick - Stationery",
+    "description": "Washable glue stick with twist-up design, acid-free formula, and strong bond for paper crafts and projects.",
+    "supplier_id": "14",
+    "unit_price": 450.49
+  }
+}

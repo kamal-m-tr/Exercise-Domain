@@ -1,0 +1,202 @@
+{
+  "1": {
+    "supplier_id": "1",
+    "name": "Rodriguez, LLC",
+    "contact_email": "contact@rodriguezllc.com",
+    "address": "181 Johnson Course",
+    "city": "East William",
+    "state": "AK",
+    "zip_code": "74064",
+    "country": "USA"
+  },
+  "2": {
+    "supplier_id": "2",
+    "name": "Baldwin Corp.",
+    "contact_email": "contact@baldwincorp.com",
+    "address": "79402 Peterson Drives Apt. 511",
+    "city": "Davisstad",
+    "state": "PA",
+    "zip_code": "35172",
+    "country": "USA"
+  },
+  "3": {
+    "supplier_id": "3",
+    "name": "Blair Solutions",
+    "contact_email": "contact@blairsolutions.com",
+    "address": "1849 Ray Squares",
+    "city": "North Donnaport",
+    "state": "CO",
+    "zip_code": "31013",
+    "country": "USA"
+  },
+  "4": {
+    "supplier_id": "4",
+    "name": "James Co.",
+    "contact_email": "contact@jamesco.com",
+    "address": "55341 Amanda Gardens Apt. 764",
+    "city": "Lake Mark",
+    "state": "WI",
+    "zip_code": "07832",
+    "country": "USA"
+  },
+  "5": {
+    "supplier_id": "5",
+    "name": "Underwood Co.",
+    "contact_email": "contact@underwoodco.com",
+    "address": "1395 Diana Locks Suite 242",
+    "city": "Lake Anna",
+    "state": "KS",
+    "zip_code": "98413",
+    "country": "USA"
+  },
+  "6": {
+    "supplier_id": "6",
+    "name": "Patterson, Group",
+    "contact_email": "contact@pattersongroup.com",
+    "address": "710 Eric Estate",
+    "city": "Carlsonfurt",
+    "state": "MS",
+    "zip_code": "78605",
+    "country": "USA"
+  },
+  "7": {
+    "supplier_id": "7",
+    "name": "Rice-Maddox Solutions",
+    "contact_email": "contact@rice-maddoxsolu.com",
+    "address": "184 Rodriguez Mews",
+    "city": "South Aaron",
+    "state": "VA",
+    "zip_code": "94830",
+    "country": "USA"
+  },
+  "8": {
+    "supplier_id": "8",
+    "name": "Stanton-Gill Enterprises",
+    "contact_email": "contact@stanton-gillent.com",
+    "address": "489 Eric Track",
+    "city": "New Stephanie",
+    "state": "NC",
+    "zip_code": "00575",
+    "country": "USA"
+  },
+  "9": {
+    "supplier_id": "9",
+    "name": "Nguyen, Enterprises",
+    "contact_email": "contact@nguyenenterpris.com",
+    "address": "03911 Cabrera Trace Apt. 278",
+    "city": "West Allison",
+    "state": "PA",
+    "zip_code": "55962",
+    "country": "USA"
+  },
+  "10": {
+    "supplier_id": "10",
+    "name": "Hickman Group",
+    "contact_email": "contact@hickmangroup.com",
+    "address": "465 Lam Mission",
+    "city": "East Jeffreymouth",
+    "state": "AK",
+    "zip_code": "77611",
+    "country": "USA"
+  },
+  "11": {
+    "supplier_id": "11",
+    "name": "Hall, International",
+    "contact_email": "contact@hallinternation.com",
+    "address": "10518 Joshua Oval",
+    "city": "New David",
+    "state": "FM",
+    "zip_code": "75348",
+    "country": "USA"
+  },
+  "12": {
+    "supplier_id": "12",
+    "name": "Kennedy, Trading",
+    "contact_email": "contact@kennedytrading.com",
+    "address": "16566 Shields Center",
+    "city": "North Richardmouth",
+    "state": "AS",
+    "zip_code": "14823",
+    "country": "USA"
+  },
+  "13": {
+    "supplier_id": "13",
+    "name": "Lee Industries",
+    "contact_email": "contact@leeindustries.com",
+    "address": "62473 Scott Wall Apt. 080",
+    "city": "Port Melindaburgh",
+    "state": "MT",
+    "zip_code": "64154",
+    "country": "USA"
+  },
+  "14": {
+    "supplier_id": "14",
+    "name": "Lewis-Morales Industries",
+    "contact_email": "contact@lewis-moralesin.com",
+    "address": "60647 Henderson Street",
+    "city": "Mooreport",
+    "state": "IL",
+    "zip_code": "08166",
+    "country": "USA"
+  },
+  "15": {
+    "supplier_id": "15",
+    "name": "Fitzgerald, Enterprises",
+    "contact_email": "contact@fitzgeraldenter.com",
+    "address": "788 Brian Pass",
+    "city": "Port Jacobland",
+    "state": "TX",
+    "zip_code": "31329",
+    "country": "USA"
+  },
+  "16": {
+    "supplier_id": "16",
+    "name": "Wilson-Zamora LLC",
+    "contact_email": "contact@wilson-zamorall.com",
+    "address": "909 Robert Prairie",
+    "city": "Sarahborough",
+    "state": "TN",
+    "zip_code": "94373",
+    "country": "USA"
+  },
+  "17": {
+    "supplier_id": "17",
+    "name": "Allen-Foster Co.",
+    "contact_email": "contact@allen-fosterco.com",
+    "address": "5107 Charles Forest Suite 251",
+    "city": "West Justin",
+    "state": "NV",
+    "zip_code": "71701",
+    "country": "USA"
+  },
+  "18": {
+    "supplier_id": "18",
+    "name": "Turner, International",
+    "contact_email": "contact@turnerinternati.com",
+    "address": "841 Joseph Coves",
+    "city": "West Juan",
+    "state": "IL",
+    "zip_code": "94559",
+    "country": "USA"
+  },
+  "19": {
+    "supplier_id": "19",
+    "name": "Harris-Walters Inc.",
+    "contact_email": "contact@harris-waltersi.com",
+    "address": "740 Cynthia Village Suite 005",
+    "city": "Lake Tina",
+    "state": "GA",
+    "zip_code": "97655",
+    "country": "USA"
+  },
+  "20": {
+    "supplier_id": "20",
+    "name": "Arnold-Patterson Co.",
+    "contact_email": "contact@arnold-patterso.com",
+    "address": "12805 Russell Canyon",
+    "city": "Michaelton",
+    "state": "MH",
+    "zip_code": "47399",
+    "country": "USA"
+  }
+}
